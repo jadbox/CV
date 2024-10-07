@@ -2,7 +2,7 @@
 Ann Arbor, MI | jdunlap@outlook.com | [LinkedIn](www.linkedin.com/in/jonathandunlap)
 
 ## Summary
-Innovative technical leader with 15+ years of experience in software engineering, AI/ML technologies, and cross-platform development. Proven track record of architecting scalable solutions, optimizing performance, and leading high-impact teams. Passionate about advancing AI frameworks to enable cutting-edge experiences across cloud, mobile, and IoT ecosystems.
+Innovative technical leader with 15+ years of experience in software engineering, AI/ML technologies, and cross-platform development. Proven track record of architecting scalable solutions, optimizing performance, and leading high-impact teams. Passionate about advancing AI frameworks to enable cutting-edge experiences across cloud, mobile, and IoT ecosystems. 3x startup founder with each raising over $1.5M seed.
 
 ## Core Competencies
 - AI/ML Framework Development
@@ -13,7 +13,7 @@ Innovative technical leader with 15+ years of experience in software engineering
 - Product Strategy & Innovation
 
 ## Technical Skills
-- Languages: Python, Java, JavaScript, C++, Erlang, TypeScript, Elixir
+- Languages: Python, Java, JavaScript, C++, C#, F#, Erlang, TypeScript, Elixir, Kotlin, various DSLs
 - Cloud Platforms: AWS, Azure, Fly.io, Cloudflare, Supabase
 - Technologies: Large Language Models (LLM), Docker, Kubernetes, Redis
 - Frameworks: TensorFlow, PyTorch (familiarity through LLM work)
